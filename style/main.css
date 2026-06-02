@@ -1,0 +1,28 @@
+.center_text {
+    text-align: center;
+    font-family: system-ui;
+    color: black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.left_text_bold {
+    margin-left: 10px;
+    text-align: left;
+    font-weight: bold;
+    font-family: system-ui;
+    color: dodgerblue;
+}
+
+.box {
+    align-items: center;
+    margin: 0 auto;
+    height: auto;
+    background-color: white;
+    border: 5px solid darkgrey;
+    border-radius: 10px;
+}
+
+.list {
+    margin: 0px;
+}
