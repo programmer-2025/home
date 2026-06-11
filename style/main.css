@@ -1,9 +1,26 @@
+.profile_box {
+    align-items: center;
+    margin: 0 auto;
+    height: auto;
+    background-color: white;
+    border: 5px solid darkgrey;
+    border-radius: 10px;
+}
+
 .center_text {
     text-align: center;
     font-family: system-ui;
     color: black;
     margin-top: 5px;
     margin-bottom: 5px;
+}
+
+.left_text {
+    margin-left: 10px;
+    text-align: left;
+    font-weight: bold;
+    font-family: system-ui;
+    color: rgb(0, 0, 0);
 }
 
 .left_text_bold {
